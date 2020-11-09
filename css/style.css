@@ -3,7 +3,7 @@
     padding: 0 ;
     margin: 0;
     font-size: 7x;
-    line-height: 2em;
+    line-height: 3em;
 }
 
 /*----Main Styling -----*/
@@ -31,7 +31,7 @@ p.blockquote {
 }
 
 h1 { 
-    font-size: 3.827em;
+    font-size: 3.820em;
     margin-top: auto;
     margin-bottom: auto;
 }
@@ -45,7 +45,7 @@ blockquote {
     font-size: 1.214em;
     color: grey;
     hanging-punctuation: first;
-    text-indent;
+    text-indent:inherit;
     
 }
 
@@ -54,16 +54,62 @@ blockquote cite{
     color:navajowhite;
 }
  footer{
-    position: fixed;
     float: inherit;
     bottom: auto;
-    text-align: center;
-     font-size: 0.6em;
-     padding:0;
+    text-align: left;
+    font-size: 0.8em;
 }
 
 header h1 {
     font-style: italic;
+    
 }
+
+p{ font size: 1.5em;
+}
+
+/*---STYLING LINKS -----*/
+
+a{ 
+    color:mediumaquamarine;
+    text-decoration: none;
+}
+
+a:hover{
+    color: yellow;
+    border-bottom: 2px dotted;
+}
+
+/*----Navigation-----*/
+nav{
+    position:fixed;
+    top:0;
+    left:0;
+    margin:0;
+    width:100%;
+    background-color:#2E86C1;
+    padding: 1em 0;
+    font-size: 0.76em;
+
+}
+
+nav ul { 
+        text-align: center;
+        text-transform: uppercase;
+}
+
+nav ul li {
+    display: inline;
+    margin: 40px;
+    background: white;
+}
+
+nav a:hover {
+            border-bottom:none;
+            color:darkgreen;
+}
+/*nav a:link { 
+}              color:#fdddf;
+
 
 

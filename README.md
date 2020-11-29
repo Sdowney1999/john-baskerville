@@ -1,5 +1,4 @@
 John Baskerville
-
 ================
 
 [Version 1] 
@@ -37,5 +36,4 @@ Adding my first proper web page marking
 Adding my first proper web page marking
 
 History of Type
-
 ==========================

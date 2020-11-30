@@ -29,7 +29,7 @@ Adding my first proper web page marking
 
 [Version 4] 
 
-(https://sdowney1999.github.io/john-baskerville/johnbaskerville-4.html)
+(https://sdowney1999.github.io/john-baskerville/johnbaskerville-verision4.html)
 
 *23 November 2020*
 

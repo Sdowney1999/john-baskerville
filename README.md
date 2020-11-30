@@ -37,3 +37,11 @@ Adding my first proper web page marking
 
 History of Type
 ==========================
+
+[Version 1] 
+
+(https://sdowney1999.github.io/john-baskerville/history1.html)
+
+*30 November 2020*
+
+My first history excerise.

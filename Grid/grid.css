@@ -1,0 +1,42 @@
+body{
+    background:white;
+    color:#333;
+    line-height: 1.8em;
+}
+
+article {
+         background: #fff
+         padding:14px;
+         height: 400px;
+        display:grid;
+        grid-template-columns: 200px 200px 200px;
+        grid-gap: 15px;
+        grid-auto-rows: minmax(380px auto);
+}
+
+.uno {
+    background:grey;
+    grid-column-start: 1;
+    grid-column-end:4;
+    grid-row-start:1;
+    grid-row-end: 3;
+    display: grid;
+    grid-template-columns: repeat (3,1fr);
+    grid-gap: 15px;
+}
+        
+
+section {background: orange;
+        color: #333;
+        padding:10px;
+}
+
+.nested {background: gold;}
+
+.green {background: green;
+}
+
+P{ margin: 5px;
+color:antiquewhite;
+    
+}

@@ -32,28 +32,28 @@ My 4th and Final Verision of my John-baskerville.
 History of Type
 ==========================
 
-[Version 1](https://sdowney1999.github.io/john-baskerville/history/history1.html)
+[Version 1](https://sdowney1999.github.io/john-baskerville/history1.html)
 
 *30 November 2020*
 
 My first history excerise
 
 
-[Version 2](https://sdowney1999.github.io/john-baskerville/history/history2.html)
+[Version 2](https://sdowney1999.github.io/john-baskerville/history2.html)
 
 *4 Decemember 2020*
 
 My second history excerise adding in my css styling
 
 
-[Version 3](https://sdowney1999.github.io/john-baskerville/history/history3.html)
+[Version 3](https://sdowney1999.github.io/john-baskerville/history3.html)
 
 *7 Decemember 2020*
 
 My third history excerise.
 
 
-[Version 4](https://sdowney1999.github.io/john-baskerville/history/history4.html)
+[Version 4](https://sdowney1999.github.io/john-baskerville/history4.html)
 
 *14 Decemember 2020*
 

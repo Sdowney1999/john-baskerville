@@ -1,20 +1,18 @@
 /*----CSS Reset----*/
-* { 
-    padding: 0 ;
+* {
+    padding: 0;
     margin: 0;
-    font-size: 7x;
-    line-height: 3em;
-    border: 0;
+    font-size: 100%;
+    line-height: 1em;
 }
 
 /*----Main Styling -----*/
 
 body {
-    
-width: 80%;
-max-width: 1000px;
+width: 100%;
+max-width: 600px;
 margin: auto;
-background: #ffff;
+background: #ffffff;
     
 }
 
@@ -27,8 +25,9 @@ h1, h2
     text-align: center;
 }
 
-p.blockquote {
-    margin-bottom: 1.3em;
+p, blockquote {
+    margin-bottom: 1.5em;
+    line-height: 1.4;
 }
 
 h1 { 
@@ -39,20 +38,23 @@ h1 {
 
 h2 { 
      font-size:2em;
-     margin: 0;
+     margin: 3em 0 1em 0;
   }
 
+header h2 {
+    margin: 0.5em 0 1em;
+}
 blockquote {
     font-size: 1.214em;
     color: grey;
     hanging-punctuation: first;
-    text-indent:inherit;
+    text-indent: -0.42em;
     
 }
 
 blockquote cite{
-   font-size: 1.2em;
-    color:navajowhite;
+   font-size: .9em;
+    color: #2E86C1;
 }
  footer{
     float: inherit;
@@ -61,13 +63,12 @@ blockquote cite{
     font-size: 0.8em;
 }
 
+header {margin-top: 7em}
+
 header h1 {
-    font-style: italic;
-    
+    font-style: italic
 }
 
-p{ font size: 1.5em;
-}
 
 /*---STYLING LINKS -----*/
 
@@ -76,9 +77,10 @@ a{
     text-decoration: none;
 }
 
-a:hover{
-    color: yellow;
-    border-bottom: 2px dotted;
+a:hover {
+            border-bottom:none;
+            color:gold;
+            text-decoration: underline;
 }
 
 /*----Navigation-----*/
@@ -102,15 +104,13 @@ nav ul {
 nav ul li {
     display: inline;
     margin: 40px;
-    background: white;
 }
 
 nav a:hover {
             border-bottom:none;
-            color:darkgreen;
+            color:#fff
 }
-/*nav a:link { 
-}              color:#fdddf;
 
+nav a {color: aqua}
 
 

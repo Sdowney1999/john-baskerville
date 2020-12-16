@@ -24,7 +24,7 @@ h1, h2, h3
    font-weight: bold;
     color: goldenrod;
     text-align: center;
-    font-family: 'Raleway', sans-serif;
+font-family: 'Libre Baskerville', serif;
    margin:auto;
     
 }
@@ -99,7 +99,7 @@ intro {font-size: 1.1em;
 
 
 
-h1, h2, nav, footer, p, cite {font-family: 'Libre Baskerville', serif;}
+h1, h2, nav, footer, p, cite {font-family: 'Libre Baskerville', serif; }
 
 
 .Verision1 {

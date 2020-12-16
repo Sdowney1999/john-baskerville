@@ -58,3 +58,13 @@ My third history excerise.
 *14 Decemember 2020*
 
 My fourth history excerise adding a table and finalising my css.
+
+Additional content 
+======================
+
+[CSS Exercise](https://sdowney1999.github.io/john-baskerville/excercise1.html)
+
+This is a CSS excercise for John Baskerville with 3 Verisions.
+
+*16 Decemember 2020*
+

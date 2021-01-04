@@ -68,3 +68,9 @@ This is a CSS excercise for John Baskerville with 3 Verisions.
 
 *16 Decemember 2020*
 
+[Typography](https://sdowney1999.github.io/john-baskerville/typography.html)
+
+This is example of different typography used.
+
+16th Decemember 2020*
+

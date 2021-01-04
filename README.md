@@ -72,5 +72,5 @@ This is a CSS excercise for John Baskerville with 3 Verisions.
 
 This is example of different typography used.
 
-16th Decemember 2020*
+17th Decemember 2020*
 
